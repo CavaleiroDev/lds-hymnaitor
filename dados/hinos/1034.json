@@ -1,0 +1,45 @@
+{
+    "id": "1034",
+    "name": "Pioneiros como eu",
+    "content": [
+        {
+            "tipo": "stanza",
+            "number": 1,
+            "text": " Antigos pioneiros\nTiveram prova\u00e7\u00f5es,\nMas conseguiram prosseguir\nCom f\u00e9 e ora\u00e7\u00f5es."
+        },
+        {
+            "tipo": "chorus",
+            "number": 0,
+            "text": "E hoje o Senhor ir\u00e1,\nPor certo, precisar\nDe pioneiros como eu;\nPronto vou estar."
+        },
+        {
+            "tipo": "stanza",
+            "number": 2,
+            "text": " Seguiram os profetas,\nCom toda a devo\u00e7\u00e3o;\nPregaram sobre o Salvador,\nCom f\u00e9 no cora\u00e7\u00e3o."
+        },
+        {
+            "tipo": "chorus",
+            "number": 0,
+            "text": "E hoje o Senhor ir\u00e1,\nPor certo, precisar\nDe pioneiros como eu;\nPronto vou estar."
+        },
+        {
+            "tipo": "stanza",
+            "number": 3,
+            "text": " Da Fran\u00e7a a Samoa,\nDa China ao Canad\u00e1,\nModernos pioneiros v\u00e3o\nO evangelho pregar."
+        },
+        {
+            "tipo": "chorus",
+            "number": 0,
+            "text": "E hoje o Senhor ir\u00e1,\nPor certo, precisar\nDe pioneiros como eu;\nPronto vou estar."
+        }
+    ],
+    "citation": [
+        "Letra: Jan Underwood Pinborough, 2020; traduzida para o portugu\u00eas em 2025",
+        "M\u00fasica: Michael Finlinson Moody,\u202f2020",
+        "\u00a9 2020 by Jan Underwood Pinborough e Michael Finlinson Moody; tradu\u00e7\u00e3o para o portugu\u00eas \u00a9 2025 by Intellectual Reserve, Inc. Intellectual Reserve, Inc. Todos os direitos reservados. Esta m\u00fasica pode ser copiada para uso eventual na igreja e no lar, n\u00e3o para fins comerciais."
+    ],
+    "scriptures": [
+        "Doutrina e Conv\u00eanios 136:2, 4",
+        "Doutrina e Conv\u00eanios 138:56"
+    ]
+}

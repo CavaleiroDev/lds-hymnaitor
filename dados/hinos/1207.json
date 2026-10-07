@@ -1,0 +1,30 @@
+{
+    "id": "1207",
+    "name": "Noite de paz",
+    "content": [
+        {
+            "tipo": "stanza",
+            "number": 1,
+            "text": " Noite de paz \u2014\nDeus menino dorme_em paz!\nMaria, m\u00e3e do bebezinho,\nCuida Dele com carinho.\nNoite de paz \u2014\nDeus menino dorme em paz!"
+        },
+        {
+            "tipo": "stanza",
+            "number": 2,
+            "text": " Noite de luz \u2014\nDorme o beb\u00ea Jesus!\nLouvando a Deus com alegria,\nAnjos cantam noite e dia.\nNoite de luz \u2014\nDorme o beb\u00ea Jesus!"
+        },
+        {
+            "tipo": "stanza",
+            "number": 3,
+            "text": " Noite de amor \u2014\nDeus, o Pai, tem grande amor!\nMandou Jesus, Seu Filho Amado,\nResgatar\u2011nos do pecado.\nNoite de amor \u2014\nDeus, o Pai, tem grande amor."
+        }
+    ],
+    "citation": [
+        "Letra: Can\u00e7\u00e3o de Natal austr\u00edaca; Salzburgische Volks-Lieder, 1865; traduzida para o portugu\u00eas em 2025",
+        "M\u00fasica: Can\u00e7\u00e3o de Natal austr\u00edaca; Salzburgische Volks-Lieder, 1865; arranjo, 2025 | STILL, STILL, STILL",
+        "Tradu\u00e7\u00e3o para o portugu\u00eas e arranjo musical \u00a9 2025 Intellectual Reserve, Inc. Todos os direitos reservados. Esta m\u00fasica pode ser copiada para uso eventual na igreja e no lar, n\u00e3o para fins comerciais."
+    ],
+    "scriptures": [
+        "Lucas 2:4\u201314",
+        "Doutrina e Conv\u00eanios 138:3"
+    ]
+}

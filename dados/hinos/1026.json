@@ -1,0 +1,45 @@
+{
+    "id": "1026",
+    "name": "Lugares santos",
+    "content": [
+        {
+            "tipo": "stanza",
+            "number": 1,
+            "text": " O santo templo \u00e9 um lugar\nQue une a Terra aos c\u00e9us;\nAli podemos adorar\nE servir ao nosso Deus."
+        },
+        {
+            "tipo": "chorus",
+            "number": 0,
+            "text": "S\u00f3 em lugares santos,\nConfiante, vou estar \u2014\nAt\u00e9 Cristo vir e o mundo, enfim,\nSanto se tornar."
+        },
+        {
+            "tipo": "stanza",
+            "number": 2,
+            "text": " Se santo for o nosso lar,\nPodemos aprender,\nBuscar a Deus e sempre orar,\nE com f\u00e9 e amor crescer."
+        },
+        {
+            "tipo": "chorus",
+            "number": 0,
+            "text": "S\u00f3 em lugares santos,\nConfiante, vou estar \u2014\nAt\u00e9 Cristo vir e o mundo, enfim,\nSanto se tornar."
+        },
+        {
+            "tipo": "stanza",
+            "number": 3,
+            "text": " Se santo for meu cora\u00e7\u00e3o,\nEnt\u00e3o ser\u00e1 lugar\nDe esperan\u00e7a e devo\u00e7\u00e3o\nPara o Esp\u00edrito brilhar."
+        },
+        {
+            "tipo": "chorus",
+            "number": 0,
+            "text": "S\u00f3 em lugares santos,\nConfiante, vou estar \u2014\nAt\u00e9 Cristo vir e o mundo, enfim,\nSanto se tornar."
+        }
+    ],
+    "citation": [
+        "Letra: Sherrie Manwill Boren, 2019; traduzida para o portugu\u00eas em 2025",
+        "M\u00fasica: Sherrie Manwill Boren, 2019 | MANWILL",
+        "\u00a9 2019 Intellectual Reserve, Inc.; tradu\u00e7\u00e3o para o portugu\u00eas \u00a9 2025 Intellectual Reserve, Inc. Todos os direitos reservados. Esta m\u00fasica pode ser copiada para uso eventual na igreja e no lar, n\u00e3o para fins comerciais."
+    ],
+    "scriptures": [
+        "Doutrina e Conv\u00eanios 87:8",
+        "Doutrina e Conv\u00eanios 109:13"
+    ]
+}

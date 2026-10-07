@@ -1,0 +1,35 @@
+{
+    "id": "1017",
+    "name": "Este \u00e9 o Cristo",
+    "content": [
+        {
+            "tipo": "stanza",
+            "number": 1,
+            "text": " A Sua voz o povo ouviu,\nE cada um o Seu poder sentiu;\nE, em branco, viu Se aproximar\nAquele que sofreu pra nos salvar.\nEnt\u00e3o, as Suas m\u00e3os tocou\nE assim testificou: \u201cEste \u00e9 o Cristo\u201d."
+        },
+        {
+            "tipo": "chorus",
+            "number": 0,
+            "text": "Este \u00e9 o Cristo, o Filho de Deus,\nO nosso Salvador e Redentor!\nEste \u00e9 o Cristo, que nos resgatou,\nQue nos curou com Seu amor."
+        },
+        {
+            "tipo": "stanza",
+            "number": 2,
+            "text": " A ora\u00e7\u00e3o, l\u00e1 no Jardim,\nExpressa o que Ele fez por mim.\nPosso sentir o Seu amor;\nPor minhas faltas sofreu tanta dor!\nO mundo, ent\u00e3o, vai proclamar\nE eu vou testificar: \u201cEste \u00e9 o Cristo\u201d."
+        },
+        {
+            "tipo": "chorus",
+            "number": 0,
+            "text": "Este \u00e9 o Cristo, o Filho de Deus,\nO nosso Salvador e Redentor!\nEste \u00e9 o Cristo, que nos resgatou,\nQue nos curou com Seu amor."
+        }
+    ],
+    "citation": [
+        "Letra: James E. Faust e Jan Underwood Pinborough, 1995;\u00a0traduzida para o portugu\u00eas em 2006; alterada",
+        "M\u00fasica: Michael Finlinson Moody, 1995; alterada | THIS IS THE CHRIST",
+        "\u00a9 1995 James E. Faust, Jan Underwood Pinborough e Michael Finlinson Moody; tradu\u00e7\u00e3o para o portugu\u00eas \u00a9 2006, 2024 Intellectual Reserve, Inc. Todos os direitos reservados. Esta m\u00fasica pode ser copiada para uso eventual na igreja e no lar, n\u00e3o para fins comerciais."
+    ],
+    "scriptures": [
+        "3\u00a0N\u00e9fi 11:3\u201317",
+        "Lucas 22:41\u201344"
+    ]
+}

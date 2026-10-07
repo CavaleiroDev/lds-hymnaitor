@@ -1,0 +1,55 @@
+{
+    "id": "1210",
+    "name": "Os jardins",
+    "content": [
+        {
+            "tipo": "stanza",
+            "number": 1,
+            "text": " Num jardim, Ad\u00e3o e Eva\nEscolheram partilhar\nDe um fruto; ent\u00e3o, da Queda,\nCristo veio nos salvar."
+        },
+        {
+            "tipo": "chorus",
+            "number": 0,
+            "text": "Aleluia, aleluia!\nO Cordeiro nos salvou!\nN\u00f3s cantamos aleluia,\nPois Jesus nos libertou."
+        },
+        {
+            "tipo": "stanza",
+            "number": 2,
+            "text": " Num jardim, que \u00e9 t\u00e3o sagrado,\nCristo a todos libertou\nAo sofrer pelos pecados;\nEle a morte conquistou."
+        },
+        {
+            "tipo": "chorus",
+            "number": 0,
+            "text": "Aleluia, aleluia!\nO Cordeiro nos salvou!\nN\u00f3s cantamos aleluia,\nPois Jesus nos libertou."
+        },
+        {
+            "tipo": "stanza",
+            "number": 3,
+            "text": " Num jardim, foi sepultado,\nMas \u201caqui, n\u00e3o mais est\u00e1.\nCristo \u00e9 j\u00e1 ressuscitado\u201d,\nAnjos v\u00eam anunciar."
+        },
+        {
+            "tipo": "chorus",
+            "number": 0,
+            "text": "Aleluia, aleluia!\nO Cordeiro nos salvou!\nN\u00f3s cantamos aleluia,\nPois Jesus nos libertou."
+        },
+        {
+            "tipo": "stanza",
+            "number": 4,
+            "text": " Buscai Cristo e sede salvos,\nDe Seu fruto partilhai.\nNo jardim mais esperado,\nPodereis v\u00f3s habitar."
+        },
+        {
+            "tipo": "chorus",
+            "number": 0,
+            "text": "Aleluia, aleluia!\nO Cordeiro nos salvou!\nN\u00f3s cantamos aleluia,\nPois Jesus nos libertou."
+        }
+    ],
+    "citation": [
+        "Letra: R. Devan Jensen, 1999; traduzida para o portugu\u00eas em 2026",
+        "M\u00fasica: Daniel Lyman Carter, 1999; alterada | EVERGREEN",
+        "\u00a9 2004, 2026 R. Devan Jensen e Daniel Lyman Carter; tradu\u00e7\u00e3o para o portugu\u00eas \u00a9 2026 Intellectual Reserve, Inc. Todos os direitos reservados. Esta m\u00fasica pode ser copiada para uso eventual na igreja e no lar, n\u00e3o para fins comerciais."
+    ],
+    "scriptures": [
+        "Doutrina e Conv\u00eanios 29:40\u201342",
+        "Mosias 3:7, 10\u201313"
+    ]
+}

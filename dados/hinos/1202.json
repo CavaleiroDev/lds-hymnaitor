@@ -1,0 +1,50 @@
+{
+    "id": "1202",
+    "name": "O menino Jesus nasceu",
+    "content": [
+        {
+            "tipo": "chorus",
+            "number": 0,
+            "text": "O menino Jesus nasceu;\nVinde alegres, cantai louvores.\nO menino Jesus nasceu;\nVeio ao mundo o Filho de Deus."
+        },
+        {
+            "tipo": "stanza",
+            "number": 1,
+            "text": " \u00c9 o Cristo, o Salvador\nQue os profetas anunciaram.\n\u00c9 o Cristo, o Salvador;\nOh, que dia de esplendor!"
+        },
+        {
+            "tipo": "chorus",
+            "number": 0,
+            "text": "O menino Jesus nasceu;\nVinde alegres, cantai louvores.\nO menino Jesus nasceu;\nVeio ao mundo o Filho de Deus."
+        },
+        {
+            "tipo": "stanza",
+            "number": 2,
+            "text": " Sobre a palha, a dormir,\nEis o humilde Deus Menino;\nSobre a palha, a dormir,\nEis Quem vem nos redimir."
+        },
+        {
+            "tipo": "chorus",
+            "number": 0,
+            "text": "O menino Jesus nasceu;\nVinde alegres, cantai louvores.\nO menino Jesus nasceu;\nVeio ao mundo o Filho de Deus."
+        },
+        {
+            "tipo": "stanza",
+            "number": 3,
+            "text": " Como \u00e9 belo o Rei Jesus!\nPuro, santo e perfeito.\nComo \u00e9 belo o Rei Jesus!\nTraz ao mundo gra\u00e7a e luz."
+        },
+        {
+            "tipo": "chorus",
+            "number": 0,
+            "text": "O menino Jesus nasceu;\nVinde alegres, cantai louvores.\nO menino Jesus nasceu;\nVeio ao mundo o Filho de Deus."
+        }
+    ],
+    "citation": [
+        "Letra:\u00a0Nouveaux Cantiques, 1812;\u00a0traduzida para o portugu\u00eas em 2024",
+        "M\u00fasica: Can\u00e7\u00e3o de Natal francesa; Airs not\u00e9s du recueil de cantiques spirituels \u00e0 l\u2019usage des petits, 1824;\u00a0arranjo, 2024 |\u00a0IL EST N\u00c9",
+        "Tradu\u00e7\u00e3o para o portugu\u00eas e arranjo musical \u00a9 2024 Intellectual Reserve, Inc. Todos os direitos reservados. Esta m\u00fasica pode ser copiada para uso eventual na igreja e no lar, n\u00e3o para fins comerciais."
+    ],
+    "scriptures": [
+        "Lucas 2:6\u201314",
+        "Isa\u00edas 9:6"
+    ]
+}

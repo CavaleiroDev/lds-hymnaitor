@@ -1,16 +1,5 @@
-# Para fazer:
-
-# V consertar scrapper (conforme 3 problemas citados aqui)
-# V - PRECISO QUE O "\n" NO INICIO DE CADA ESTROFE SEJA REMOVIDO
-# V - COLOCAR UM FILTRO PARA NÃO VIR "para voz e violão"
-# V - number = int(number)   # é boa prática ter mas n quero consertar para conseguir rodar o hino 1041!   ISSO TEM QUE CONSERTAR PARA A FORMATAÇÃO FUNCIONAR!!!!
-# X(isso pode ser feito pelo próprio IDE!) conseguir renderização do documento funcionando corretamente
-# V implementar definição manual sobre usar 1 ou 2 colunas por hino
-# melhorias no código (logs úteis, legivel, controle por CLI, apto a ser publicado no github e ajudar pessoas)
-# publicar no github
-# seria bom se desse para incluir os textos extra que alguns hinos possuem. isso infelizmente ficou de fora
-# tem um bug. tive que implementar manualmente a renderização das escrituras no documento. Tem uma musica que ele repete a mesma escritura duas vezes por causa da forma que o site é orquestrado
-
+# https://github.com/CavaleiroDev/lds-hymnaitor
+# this code is NOT optimized. It was made to extract data in Portuguese and, for now, might not work properly with English
 
 import json
 import requests

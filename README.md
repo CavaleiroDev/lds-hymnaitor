@@ -14,3 +14,5 @@ With that being said, there is quite a few things i had to implement manually hy
 - blacklisted text to filter unnecessary credits info
 
 The code here is NOT optimized and if you wanna use it you might have to change it a bit. Specially if you want to generate data in English. You shold be able to just change the URL but it might break some small things
+
+### This work is not an official tool nor is an official pdf of The Church of Jesus Christ of Latter-day Saints.
